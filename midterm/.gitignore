@@ -1,0 +1,8 @@
+build/
+.agent/
+docs/
+
+
+# For MacOS
+.DS_Store
+*/.DS_Store

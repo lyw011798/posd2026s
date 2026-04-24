@@ -1,0 +1,6 @@
+build/
+
+
+# For MacOS
+.DS_Store
+*/.DS_Store

@@ -1,0 +1,6 @@
+Rectangle (5.5 2.5)
+Rectangle (7 3)
+Triangle (6 8 10)
+Triangle (5 12 13)
+Circle (3.5)
+Circle (10)
